@@ -475,6 +475,8 @@ textarea {
     
     border-radius: 10px;
     border: 1px #FCA311 solid;
+    
+    resize: none;
 }
 
 .container-enviar {
