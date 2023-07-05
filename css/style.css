@@ -405,6 +405,16 @@ button:hover {
     background-size: cover;
 }
 
+#projeto2 {
+    background-image: url(../imagensprojects/Naygproject.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#projeto6 {
+    background-image: url(https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/c7be5011133d.jpeg);
+}
 .section5 {
     margin-top: 200px;
 }
