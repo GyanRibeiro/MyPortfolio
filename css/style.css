@@ -1,8 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@800&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap");
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk&family=Roboto:wght@100&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@500&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Electrolize&display=swap');
 
 * {
@@ -381,24 +378,138 @@ button:hover {
     margin: 10px;
 
     width: 420px;
-    height: 220px;
+    height: 500px;
     background-color: #FCA311;
 
     border-radius: 10px;
-    border: 1px #14213D solid;
+    border: 1px #f5f5f5 solid;
 
     margin-top: 50px;
 
     color: #14213D;
 
+    background-color: #14213D;
+
+    display: flex;
+    flex-direction: column;
+
+    font-family: 'Montserrat', sans-serif;
+
+}
+
+.preview {
+    margin-top: 40px;
+
+    background-color: #CBD073;
+    width: 357px;
+    height: 200px;
+
+    background-image: url(../imagensprojects/Naygproject.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    border-radius: 10px;
+    border: 1px #f5f5f5 solid;
+}
+
+.preview:hover {
+    border: 2px #f5f5f5 solid;
+}
+
+.descriprojetos {
+    margin-top: 40px;
+
+    width: 85%;
+    height: 30px;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.descriprojetos h1 {
+    font-weight: 600;
+    color: #f5f5f5;
+
+    font-size: 22px;
+
+    
+}
+
+.descriprojetos img {
+    border-radius: 50%;
+    
+}
+
+.descriprojetos img:hover {
+    background-color: #f5f5f5;
+    transition: 0.3s all;
+}
+
+.explicandoprojeto {
+    margin-top: 40px;
+
+    color: #f5f5f5;
+
+    width: 350px;
+
+    margin-right: auto;
+    margin-left: 33px;
+}
+
+#projeto2, #projeto1, #projeto6, #projeto3 {
+    display: flex;
+    align-items: center;
+}
+
+#preview1 {
+    background-image: url(../imagensprojects/nlwproject.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+#preview3 {
     background-image: url(../imagensprojects/construindo.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
-
 }
 
-#projeto1 {
+#preview6 {
+    background-image: url(https://cdn.educba.com/academy/wp-content/uploads/2021/08/JDBC-Update.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.colorlinguagem {
+    background-color: #fc1111;
+    width: 20px;
+    height: 20px;
+
+    border-radius: 50%;
+}
+
+.linguagemprojeto p {
+    margin-left: 8px;
+    font-weight: 600;
+}
+
+.linguagemprojeto {
+
+    display: flex;
+    
+    margin-left: auto;
+    margin-top: 30px;
+    width: 100px;
+
+    color: #f5f5f5;
+}
+
+
+/* #projeto1 {
     background-image: url(../imagensprojects/nlwproject.png);
     background-repeat: no-repeat;
     background-position: center;
@@ -414,7 +525,8 @@ button:hover {
 
 #projeto6 {
     background-image: url(https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/c7be5011133d.jpeg);
-}
+} */
+
 .section5 {
     margin-top: 200px;
 }
