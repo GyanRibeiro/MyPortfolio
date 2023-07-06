@@ -9,7 +9,7 @@
 }
 
 body {
-    font-family: 'Electrolize', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 
     background-color: #FFFFFF;
 
@@ -21,6 +21,8 @@ body {
 }
 
 .menufixo {
+    font-family: 'Electrolize', sans-serif;
+
     display: flex;
     flex-direction: row;
     justify-content: space-around;
@@ -168,6 +170,7 @@ p {
 
     color: #f5f5f5;
     background-color: #14213D;
+    height: 1400px;
 
     /*
     background-image: url(../img/section2.png);
@@ -237,8 +240,8 @@ p {
     flex-direction: column;
     align-items: center;
 
+    margin-top: 10px;
     padding: 50px;
-    margin-top: 50px;
 
     width: 700px;
     height: 300PX;
@@ -248,6 +251,15 @@ p {
 
     border-radius: 40PX;
 
+}
+
+.titleabout {
+    margin-top: 80px;
+}
+
+.titleabout h1 {
+    font-size: 25px;
+    color: #CBD073;
 }
 
 .cat {
@@ -287,6 +299,7 @@ button:hover {
 
 .tecnologies {
     text-align: center;
+    font-size: 30px;
     color: #FCA311;
 }
 
@@ -355,7 +368,7 @@ button:hover {
 }
 
 .section4 {
-    margin-top: 80px;
+    margin-top: 140px;
     /*
     background-image: url(../img/section2.png);
     background-repeat: no-repeat;
@@ -377,7 +390,7 @@ button:hover {
 .projetos {
     margin: 10px;
 
-    width: 420px;
+    width: 390px;
     height: 500px;
     background-color: #FCA311;
 
@@ -401,7 +414,7 @@ button:hover {
     margin-top: 40px;
 
     background-color: #CBD073;
-    width: 357px;
+    width: 331px;
     height: 200px;
 
     background-image: url(../imagensprojects/Naygproject.png);
@@ -452,7 +465,7 @@ button:hover {
 
     color: #f5f5f5;
 
-    width: 350px;
+    width: 320px;
 
     margin-right: auto;
     margin-left: 33px;
@@ -462,6 +475,7 @@ button:hover {
     display: flex;
     align-items: center;
 }
+
 
 #preview1 {
     background-image: url(../imagensprojects/nlwproject.png);
@@ -495,6 +509,7 @@ button:hover {
 .linguagemprojeto p {
     margin-left: 8px;
     font-weight: 600;
+
 }
 
 .linguagemprojeto {
@@ -506,6 +521,10 @@ button:hover {
     width: 100px;
 
     color: #f5f5f5;
+}
+
+#projeto2 .linguagemprojeto {
+    margin-top: 50px;
 }
 
 
@@ -528,7 +547,7 @@ button:hover {
 } */
 
 .section5 {
-    margin-top: 200px;
+    margin-top: 250px;
 }
 
 .container-dados {
@@ -542,14 +561,14 @@ button:hover {
 }
 
 .escrever {
-    width: 300px;
-    height: 40px;
+    width: 400px;
+    height: 50px;
 
     padding: 20px;
     margin-top: 15px;
 
     border-radius: 10px;
-    border: 1px #FCA311 solid;
+    border: 1px #14213D solid;
 
 
     font-size: 15px;
@@ -574,7 +593,7 @@ label {
 }
 
 .container-bottom {
-    margin-top: 30px;
+    margin-top: 40px;
 
     margin-left: 37px;
 }
@@ -586,7 +605,7 @@ textarea {
     font-size: 15px;
     
     border-radius: 10px;
-    border: 1px #FCA311 solid;
+    border: 1px #14213D solid;
     
     resize: none;
 }
