@@ -2,7 +2,7 @@
 
 <h2 align="center">☕ Projeto Em Desenvolvimento</h2> <br>
 
-![preview](https://github.com/GyanRibeiro/Assets/blob/main/Portif%C3%B3lio.png?raw=true)
+![preview](https://github.com/GyanRibeiro/MyPortfolio/blob/main/assets/Portif%C3%B3lioPreview.png?raw=true)
 
 [🔗 Clique aqui para acessar](https://gyanribeiro.github.io/MyPortfolio/)
 
