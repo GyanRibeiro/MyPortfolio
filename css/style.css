@@ -646,7 +646,6 @@ h6 {
 
 .rodape {
     margin-top: 80px;
-    height: 300px;
 
     color: #f5f5f5;
     background-color: #14213D;
@@ -662,7 +661,6 @@ h6 {
 }
 
 .redes {
-    margin-top: 30px;
     display: flex;
     align-items: center;
 }
@@ -691,6 +689,16 @@ h6 {
 .section5 .tecnologies {
     color: #14213D;
 }
+
+.arrow {
+    width: 1400px;
+    height: 20px;
+
+    display: flex;
+    justify-content: flex-end;
+
+}
+
 
 
 
