@@ -328,12 +328,6 @@ button:hover {
     color: #14213D;
 }
 
-
-.conttecs:hover > :not(:hover){
-    opacity: .4;
-    transform: scale(0.9);
-}
-
 .tecs {
     height: 265px;
     width: 235px;
@@ -351,9 +345,28 @@ button:hover {
     align-items: center;
     flex-direction: column;
 
+}
+
+.tecs img {
     transition: .35s;
     cursor: pointer;
 }
+
+.tecs img:hover {
+    width: 75px;
+}
+
+/* .tecs:hover {
+
+    animation:
+     tec 1.5s normal ease-in-out;
+}
+
+@keyframes tec {
+    50% {
+        transform: translateY(-10%);
+    }
+} */
 
 .nome-tecnologia {
     margin-top: 8px;
@@ -698,7 +711,6 @@ h6 {
     justify-content: flex-end;
 
 }
-
 
 
 
