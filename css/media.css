@@ -1,0 +1,23 @@
+@media screen and (max-width: 500px) {
+    .menufixo, .hello{
+        visibility: hidden;
+    }
+
+    .section1 {
+        margin-top: 20px;
+    }
+
+    .web, .developer {
+        font-size: 72px;
+        line-height: 0.8;
+    }
+
+    .descri {
+        font-size: 10px;
+        margin-top: 10px;
+    }
+
+    .contats a img {
+        width: 25px;
+    }
+}
