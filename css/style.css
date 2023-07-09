@@ -101,20 +101,16 @@ a:hover {
     }
 }
 
-main {
-    margin-top: 80px;
-    margin: 0 auto;
 
-}
-
-
-h2 {
+.web, .developer {
     font-size: 200px;
-    color: rgb(226, 226, 226);
 
     font-family: 'Oswald', sans-serif; 
 }
 
+.web {
+    color: rgb(34, 34, 34);
+}
 
 .descri {
     margin-top: 0;
@@ -128,10 +124,6 @@ h2 {
     margin-top: -20px;
     margin-bottom: 0;
 
-    color: rgb(34, 34, 34);
-}
-
-.web {
     color: rgb(34, 34, 34);
 }
 
