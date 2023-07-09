@@ -1,15 +1,19 @@
-@media screen and (max-width: 500px) {
+@media (max-width: 500px) {
     .menufixo, .hello{
         visibility: hidden;
     }
 
     .section1 {
-        margin-top: 20px;
+        margin-top: 10px;
     }
 
-    .web, .developer {
-        font-size: 72px;
-        line-height: 0.8;
+    #secao1 {
+        border: 1px red solid;
+    }
+
+    .developer, .web {
+        font-size: 76px;
+        line-height: 0.9;
     }
 
     .descri {
@@ -17,7 +21,62 @@
         margin-top: 10px;
     }
 
-    .contats a img {
-        width: 25px;
+   #linkedin {
+        margin-left: 15px;
     }
+
+    .contats {
+        margin-left: 0;
+    }
+
+    .contats a img {
+        width: 30px;
+
+    }
+
+    .section2 {
+        padding-top: 90px;
+        height: 1000px;
+    }
+
+    .img-about {
+        width: 160px;
+    }
+
+    .about {
+        font-size: 15px;
+    }
+
+    .about2 {
+        font-size: 10px;
+    }
+
+    .about2 {
+        width: 360px;
+    }
+
+    .titleabout h1 {
+        font-size: 18px;
+    }
+
+    .about3 {
+
+        width: 380px;
+        height: 220px;
+        
+        display: flex;
+        flex-direction: column;
+
+        justify-content: center;
+    }
+
+    .about3 p {
+        font-size: 12px;
+    }
+
+    button {
+        width: 90px;
+        font-size: 12px;
+    }
+
 }
