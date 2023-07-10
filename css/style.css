@@ -18,6 +18,8 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;*/
+
+    
 }
 
 .menufixo {
@@ -159,11 +161,9 @@ p {
 
 .section2 {     
     margin-top: 100px;
-    padding-top: 200px;
 
     color: #f5f5f5;
     background-color: #14213D;
-    height: 1400px;
 
     /*
     background-image: url(../img/section2.png);
@@ -203,6 +203,8 @@ p {
 }
 
 .container-sobre {
+    margin-top: 100px;
+
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -237,10 +239,10 @@ p {
     padding: 50px;
 
     width: 700px;
-    height: 300PX;
 
     color: #2c3e66;
     background-color: #FFFFFF;
+    border: 1px #14213D solid;
 
     border-radius: 40PX;
 
@@ -270,6 +272,7 @@ button {
 
     font-weight: bold;
     background-color: #FFFFFF;
+    border: 1px #dfdcdc solid;
     color: #14213D;
 
     cursor: pointer;
@@ -283,11 +286,10 @@ button:hover {
 
 .section3 {
     background-color: #14213D;
+    margin-top: 300px;
 }
 
 .skills {
-    margin-top: 200px;
-
     background-color: #FFFFFF;
 }
 
@@ -308,15 +310,12 @@ button:hover {
 }
 
 .conttecs {
-    height: 700px;
-    width: 1000px;
 
     margin: 0 auto;
-    padding-top: 70px;
+    margin-top: 70px;
 
     display: flex;
     justify-content: space-between;
-
     flex-wrap: wrap;
     color: #14213D;
 }
@@ -382,7 +381,6 @@ button:hover {
     background-position: center;
     background-size: cover;*/
 
-    padding-top: 100px;
 }
 
 .container-projetos {
