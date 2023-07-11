@@ -1,10 +1,10 @@
-﻿# 🚀 [Meu Portifólio](https://gyanribeiro.github.io/MyPortfolio/)
+﻿# 🚀 [Meu Portifólio](https://gyanribeiro.netlify.app/)
 
 <h2 align="center">☕ Projeto Em Desenvolvimento</h2> <br>
 
 ![preview](https://github.com/GyanRibeiro/MyPortfolio/blob/main/assets/Portif%C3%B3lioPreview.png?raw=true)
 
-[🔗 Clique aqui para acessar](https://gyanribeiro.github.io/MyPortfolio/)
+[🔗 Clique aqui para acessar](https://gyanribeiro.netlify.app/)
 
 > Portifólio
 
