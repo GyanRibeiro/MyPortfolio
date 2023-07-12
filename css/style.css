@@ -672,11 +672,11 @@ h6 {
 .redes-img {
     padding: 5px;
     margin: 10px;
-    
-    /*
-    animation:
-     redess 3.0s infinite ease-in-out;*/
 
+}
+
+.redes img:hover {
+    transform: scale(1.1);
 }
 
 /*
