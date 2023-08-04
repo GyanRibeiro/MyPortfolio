@@ -1,5 +1,3 @@
-﻿# 🚀 [Meu Portifólio](https://gyanribeiro.netlify.app/)
-
 <h2 align="center">⛑️⛑️ Não uso mais esse portifólio ⛑️⛑️</h2>
 
 ## Acesse o novo baixo:
